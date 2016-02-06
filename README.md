@@ -1,2 +1,4 @@
-# PracticalMachineLearning
-Project for Practical Machine Learning Coursera Course
+# Practical Machine Learning
+This repo contains files for the final project of the the Practical Machine Learning Course on Coursera that is part of the Data Science Specialization from Brian Caffo, Jeff Leek, and Roger Peng from Johns Hopkins University. 
+
+In the project we try to predict how well 6 different participants performed a weightlifting excercise. The participants were asked to perform one set of 10 repetitions of the Unilateral Dumbbell Biceps Curl in five different ways. Data was obtained from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. More information can be found here: [Weight Lifting Exercises Dataset](http://groupware.les.inf.puc-rio.br/har). This repo contains an R markdown file, a markdown file, and an html file with a write-up on how the analysis was carried out in R.
